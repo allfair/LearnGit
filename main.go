@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+//test second
 func main() {
 	type Email struct {
 		Where string `xml:"where,attr"`
